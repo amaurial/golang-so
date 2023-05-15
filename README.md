@@ -5,6 +5,7 @@ https://pkg.go.dev/plugin
 
 Inspirado em
 https://github.com/vladimirvivien/go-plugin-example/tree/master
+https://www.sobyte.net/post/2021-12/golang-plugin/
 
 Como fazer o build e testar
 
