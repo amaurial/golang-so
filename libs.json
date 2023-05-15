@@ -1,0 +1,15 @@
+{
+    "libs": [
+      {
+        "name": "lib1.so"        
+        }
+      ,
+      {
+        "name": "lib2.so"        
+      },
+      {
+        "name": "lib3.so"        
+      }
+    ]
+  }
+  
